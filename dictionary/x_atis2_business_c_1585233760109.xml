@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Business Case" max_length="40" name="x_atis2_business_c_1585233760109" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Codice" label="Codice" max_length="40" name="u_codice" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Costo giornaliero" label="Costo giornaliero" max_length="40" name="u_costo_giornaliero" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Divisione" label="Divisione" max_length="40" name="u_divisione" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="scheda_servizio" label="Scheda servizio" language="en" table="x_atis2_business_c_scheda_servizio">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>scheda_servizio</element>
+            <help/>
+            <hint/>
+            <label>Scheda servizio</label>
+            <language>en</language>
+            <name>x_atis2_business_c_scheda_servizio</name>
+            <plural>Scheda servizios</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:07</sys_created_on>
+            <sys_id>9a4e902d1bffc050891ca9bd2a4bcb93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Scheda servizio</sys_name>
+            <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+            <sys_update_name>sys_documentation_x_atis2_business_c_scheda_servizio_scheda_servizio_en</sys_update_name>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

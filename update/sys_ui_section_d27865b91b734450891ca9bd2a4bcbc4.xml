@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d27865b91b734450891ca9bd2a4bcbc4" sys_domain="global" table="x_atis2_business_c_scheda_servizio" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cliente</element>
+            <position>0</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>4d3e29311bb34450891ca9bd2a4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progetto</element>
+            <position>1</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>cd3e29311bb34450891ca9bd2a4bcb3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>413e29311bb34450891ca9bd2a4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>protocollo</element>
+            <position>3</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>c13e29311bb34450891ca9bd2a4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scheda_servizio</element>
+            <position>4</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>453e29311bb34450891ca9bd2a4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>c53e29311bb34450891ca9bd2a4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>versione</element>
+            <position>6</position>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 15:24:46</sys_created_on>
+            <sys_id>493e29311bb34450891ca9bd2a4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_atis2_business_c_scheda_servizio" sys_domain="global" view="Default view">d27865b91b734450891ca9bd2a4bcbc4</sys_ui_section>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 15:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_atis2_business_c_scheda_servizio</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 14:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d27865b91b734450891ca9bd2a4bcbc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_atis2_business_c_scheda_servizio</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+            <sys_update_name>sys_ui_section_d27865b91b734450891ca9bd2a4bcbc4</sys_update_name>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 14:59:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Standard cost" max_length="40" name="x_atis2_business_c_standard_cost" text_index="true" type="collection">
+        <element active="false" attributes="edge_encryption_enabled=true" display="true" label="Codice" mandatory="true" max_length="40" name="codice" type="string"/>
+        <element attributes="omit_sys_original=true" label="Costo giornaliero" max_length="20" name="costo_giornaliero" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Divisione" max_length="40" name="divisione" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Scheda servizio" max_length="40" name="x_atis2_business_c_scheda_servizio" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cliente" max_length="40" name="cliente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Progetto" max_length="100" name="progetto" type="string"/>
+        <element label="Protocollo" max_length="40" name="protocollo" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Scheda servizio" max_length="40" name="scheda_servizio" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Versione" max_length="40" name="versione" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

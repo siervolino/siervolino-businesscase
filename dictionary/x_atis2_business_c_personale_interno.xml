@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Personale interno" max_length="40" name="x_atis2_business_c_personale_interno" type="collection">
+        <element choice="3" label="Anno 1" max_length="40" name="anno_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2020" sequence="10" value="2020"/>
+                <element inactive_on_update="false" label="2021" sequence="20" value="2021"/>
+                <element inactive_on_update="false" label="2022" sequence="30" value="2022"/>
+                <element inactive_on_update="false" label="2023" sequence="40" value="2023"/>
+                <element inactive_on_update="false" label="2024" sequence="50" value="2024"/>
+                <element inactive_on_update="false" label="2025" sequence="60" value="2025"/>
+                <element inactive_on_update="false" label="2026" sequence="70" value="2026"/>
+                <element inactive_on_update="false" label="2027" sequence="80" value="2027"/>
+                <element inactive_on_update="false" label="2028" sequence="90" value="2028"/>
+                <element inactive_on_update="false" label="2029" sequence="100" value="2029"/>
+                <element inactive_on_update="false" label="2030" sequence="110" value="2030"/>
+            </choice>
+        </element>
+        <element label="Attività" max_length="100" name="attivit" type="string"/>
+        <element choice="3" default="Atos IDM" label="Delivery di appartenenza" max_length="4000" name="delivery_di_appartenenza" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Atos IDM" sequence="10" value="Atos IDM"/>
+                <element inactive_on_update="false" label="Atos B&amp;PS" sequence="20" value="Atos B&amp;PS"/>
+                <element inactive_on_update="false" label="Atos BDS" sequence="30" value="Atos BDS"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" dependent="delivery_di_appartenenza" dependent_on_field="delivery_di_appartenenza" element_reference="true" label="Figura professionale" max_length="32" name="figura_professionale" reference="x_atis2_business_c_standard_cost" reference_key="Codice" reference_qual="javascript:&quot;divisione=&quot; + current.delivery_di_appartenenza" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element label="Scheda servizio" max_length="32" name="scheda_servizio" reference="x_atis2_business_c_scheda_servizio" type="reference"/>
+        <index name="index">
+            <element name="scheda_servizio"/>
+        </index>
+        <index name="index2">
+            <element name="figura_professionale"/>
+        </index>
+    </element>
+</database>

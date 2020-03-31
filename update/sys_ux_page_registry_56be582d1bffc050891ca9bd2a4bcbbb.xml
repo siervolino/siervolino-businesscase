@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>4ebe582d1bffc050891ca9bd2a4bcbba</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/business_case</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-26 14:59:01</sys_created_on>
+        <sys_id>56be582d1bffc050891ca9bd2a4bcbbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Case</sys_name>
+        <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+        <sys_update_name>sys_ux_page_registry_56be582d1bffc050891ca9bd2a4bcbbb</sys_update_name>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-26 14:59:01</sys_updated_on>
+        <title>Business Case</title>
+    </sys_ux_page_registry>
+</record_update>

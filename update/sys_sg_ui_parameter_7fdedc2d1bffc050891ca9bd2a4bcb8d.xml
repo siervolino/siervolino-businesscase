@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Scheda servizio)">7fdedc2d1bffc050891ca9bd2a4bcb8c</button>
+        <button_parent_table>x_atis2_business_c_scheda_servizio</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>scheda_servizio</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Scheda servizio</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-26 14:59:40</sys_created_on>
+        <sys_id>7fdedc2d1bffc050891ca9bd2a4bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheda servizio</sys_name>
+        <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_7fdedc2d1bffc050891ca9bd2a4bcb8d</sys_update_name>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-26 14:59:40</sys_updated_on>
+        <table_name>x_atis2_business_c_scheda_servizio</table_name>
+    </sys_sg_ui_parameter>
+</record_update>

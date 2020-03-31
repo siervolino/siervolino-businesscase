@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Business Case">a3de542d1bffc050891ca9bd2a4bcb08</applet_launcher>
+        <icon display_value="Home Business Case">e3de542d1bffc050891ca9bd2a4bcb09</icon>
+        <label>Business Case</label>
+        <roles>x_atis2_business_c.business case admin,x_atis2_business_c.business case user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-26 14:59:39</sys_created_on>
+        <sys_id>a3de542d1bffc050891ca9bd2a4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Case</sys_name>
+        <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_a3de542d1bffc050891ca9bd2a4bcb09</sys_update_name>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-26 14:59:39</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

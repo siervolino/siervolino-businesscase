@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="anno_1" table="x_atis2_business_c_personale_interno" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>anno_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020</label>
+            <language>en</language>
+            <name>x_atis2_business_c_personale_interno</name>
+            <sequence>10</sequence>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 16:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a96cfd3d1bb34450891ca9bd2a4bcb85</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:27:10</sys_updated_on>
+            <value>2020</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>anno_1</element>
+            <name>x_atis2_business_c_personale_interno</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 16:26:58</sys_created_on>
+            <sys_id>507c757d1bb34450891ca9bd2a4bcb43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>anno_1</sys_name>
+            <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+            <sys_update_name>sys_choice_x_atis2_business_c_personale_interno_anno_1</sys_update_name>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:26:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</application>
+        <file_path/>
+        <instance_id>5eb0393cdb80fb4007072f17d49619e8</instance_id>
+        <instance_name>atositaliaspademo2</instance_name>
+        <name>sys_choice_x_atis2_business_c_personale_interno_anno_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="anno_1" table="x_atis2_business_c_personale_interno" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>anno_1</element><hint/><inactive>false</inactive><label>2020</label><language>en</language><name>x_atis2_business_c_personale_interno</name><sequence>10</sequence><sys_created_by>siervolino</sys_created_by><sys_created_on>2020-03-27 16:26:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a96cfd3d1bb34450891ca9bd2a4bcb85</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>siervolino</sys_updated_by><sys_updated_on>2020-03-27 16:27:10</sys_updated_on><value>2020</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>anno_1</element><name>x_atis2_business_c_personale_interno</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>siervolino</sys_created_by><sys_created_on>2020-03-27 16:26:58</sys_created_on><sys_id>507c757d1bb34450891ca9bd2a4bcb43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>anno_1</sys_name><sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package><sys_policy/><sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope><sys_update_name>sys_choice_x_atis2_business_c_personale_interno_anno_1</sys_update_name><sys_updated_by>siervolino</sys_updated_by><sys_updated_on>2020-03-27 16:26:58</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1347668603</payload_hash>
+        <record_name>Personale interno.Anno 1</record_name>
+        <reverted_from/>
+        <source>32285ca51bffc050891ca9bd2a4bcb81</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-27 16:27:10</sys_created_on>
+        <sys_id>577c357d1bb34450891ca9bd2a4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1711cd19a4e0000001</sys_recorded_at>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-27 16:27:10</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>1f7c357d9db3445057f9426869d55c9d</update_guid>
+        <update_guid_history>1f7c357d9db3445057f9426869d55c9d:-1347668603,067cb57d9ab34450e5fb226b474ebb94:378679139,907cb57dfeb3445031d2783c4c5c4424:855641258</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-31 08:13:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>507c757d1bb34450891ca9bd2a4bcb43</sys_id>
+        <sys_metadata>507c757d1bb34450891ca9bd2a4bcb43</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>anno_1</sys_name>
+        <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+        <sys_scope_delete display_value="">a5bb0acfa9e54ac2b523365b05bc60e4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_atis2_business_c_personale_interno_anno_1</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_atis2_business_c_personale_interno_anno_1">577c357d1bb34450891ca9bd2a4bcb9e</sys_update_version>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-31 08:13:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

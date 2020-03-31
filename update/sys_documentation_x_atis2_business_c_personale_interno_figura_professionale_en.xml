@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="figura_professionale" label="Figura professionale" language="en" table="x_atis2_business_c_personale_interno">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>figura_professionale</element>
+            <help/>
+            <hint/>
+            <label>Figura professionale</label>
+            <language>en</language>
+            <name>x_atis2_business_c_personale_interno</name>
+            <plural>Figura professionales</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>siervolino</sys_created_by>
+            <sys_created_on>2020-03-27 14:31:15</sys_created_on>
+            <sys_id>99f1e1f11b734450891ca9bd2a4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Figura professionale</sys_name>
+            <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+            <sys_update_name>sys_documentation_x_atis2_business_c_personale_interno_figura_professionale_en</sys_update_name>
+            <sys_updated_by>siervolino</sys_updated_by>
+            <sys_updated_on>2020-03-27 14:31:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

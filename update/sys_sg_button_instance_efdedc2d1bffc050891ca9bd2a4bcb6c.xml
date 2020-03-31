@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Standard cost)">a3dedc2d1bffc050891ca9bd2a4bcb6b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Standard cost)</name>
+        <order/>
+        <parent>2fdedc2d1bffc050891ca9bd2a4bcb68</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>siervolino</sys_created_by>
+        <sys_created_on>2020-03-26 14:59:39</sys_created_on>
+        <sys_id>efdedc2d1bffc050891ca9bd2a4bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Standard cost)</sys_name>
+        <sys_package display_value="Business Case" source="x_atis2_business_c">3e2818651bffc050891ca9bd2a4bcb68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Case">3e2818651bffc050891ca9bd2a4bcb68</sys_scope>
+        <sys_update_name>sys_sg_button_instance_efdedc2d1bffc050891ca9bd2a4bcb6c</sys_update_name>
+        <sys_updated_by>siervolino</sys_updated_by>
+        <sys_updated_on>2020-03-26 14:59:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>
